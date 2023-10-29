@@ -16,11 +16,11 @@ const Home = () => {
         <Container>
           <NoticeDestacada 
             key={0}
-            // redirect="/julio-2023"
-            redirect="https://data.larepublica.pe/encuesta-iep-peru-aprobacion-desaprobacion-presidencia-congreso-de-la-republica-ejecutivo-legislativo/julio-2023/"
-            image="https://origin.cronosmedia.glr.pe/large/2023/07/23/lg_64bd65945864a52f374da63b.jpg"
+            // redirect="/octubre-2023"
+            redirect="https://data.larepublica.pe/encuesta-iep-peru-aprobacion-desaprobacion-presidencia-congreso-de-la-republica-ejecutivo-legislativo/octubre-2023/"
+            image="https://origin.cronosmedia.glr.pe/large/2023/10/29/lg_653e95bd950d463ced0a1aed.jpg"
             title="ÚLTIMA ENCUESTA"
-            bajada="Casi la mitad de peruanos considera que el Perú no es una democracia. Persiste el apoyo de la población por las principales demandas de las protestas: renuncia de Dina Boluarte y cierre del Congreso."
+            bajada="Aprobación de Boluarte se mantiene en un 10%. La aceptación del Congreso no varía: 9 de cada 10 peruanos rechazan al Poder Legislativo. Situación de la fiscal de la Nación también está en vilo."
           />
           <PollAge title="ENCUESTAS IEP 2023">
             {

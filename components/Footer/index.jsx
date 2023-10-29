@@ -9,7 +9,7 @@ const Footer = () => {
           <Tip>Redacción:</Tip><Text>La República</Text>
         </Wrapper>
         <Wrapper>
-          <Tip>Desarrollo Web:</Tip><Text>Renzo Neira</Text>
+          <Tip>Desarrollo Web:</Tip><Text>Anna Absi</Text>
         </Wrapper>
         <br></br>
         <Text>© Grupo La República</Text>

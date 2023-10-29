@@ -54,6 +54,13 @@ export const accordeonData2023 = [
     image: "https://origin.cronosmedia.glr.pe/large/2023/07/23/lg_64bd65945864a52f374da63b.jpg",
     redirect: "https://data.larepublica.pe/encuesta-iep-peru-aprobacion-desaprobacion-presidencia-congreso-de-la-republica-ejecutivo-legislativo/julio-2023/"
     // redirect: "/julio-2023"
+  },
+  {
+    mes: "Octubre",
+    title: "Más del 70% de peruanos cree que remoción en la JNJ afecta la democracia, según encuesta IEP",
+    image: "https://origin.cronosmedia.glr.pe/large/2023/10/29/lg_653e95bd950d463ced0a1aed.jpg",
+    redirect: "https://data.larepublica.pe/encuesta-iep-peru-aprobacion-desaprobacion-presidencia-congreso-de-la-republica-ejecutivo-legislativo/octubre-2023/"
+    // redirect: "/octubre-2023"
   }
 ]
 
