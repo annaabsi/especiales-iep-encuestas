@@ -61,6 +61,13 @@ export const accordeonData2023 = [
     image: "https://origin.cronosmedia.glr.pe/large/2023/10/29/lg_653e95bd950d463ced0a1aed.jpg",
     redirect: "https://data.larepublica.pe/encuesta-iep-peru-aprobacion-desaprobacion-presidencia-congreso-de-la-republica-ejecutivo-legislativo/octubre-2023/"
     // redirect: "/octubre-2023"
+  },
+  {
+    mes: "Noviembre",
+    title: "El 72% de la ciudadanía considera que Dina Boluarte no defiende la autonomía del Poder Ejecutivo ante el Congreso",
+    image: "https://origin.cronosmedia.glr.pe/large/2023/11/25/lg_6562c3a001bbb521bb3f5cca.jpg",
+    redirect: "https://data.larepublica.pe/encuesta-iep-peru-aprobacion-desaprobacion-presidencia-congreso-de-la-republica-ejecutivo-legislativo/noviembre-2023/"
+    // redirect: "/noviembre-2023"
   }
 ]
 

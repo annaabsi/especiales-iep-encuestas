@@ -18,7 +18,7 @@ export default Question
 const SubTitle = styled.h2`
   font-size: 30px;
   font-weight: 800;
-  margin-bottom: 20px;
+  margin: 20px 0;
 `
 const Parrf = styled.p`
   font-size: 17px;

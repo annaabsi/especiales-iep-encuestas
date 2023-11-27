@@ -16,11 +16,11 @@ const Home = () => {
         <Container>
           <NoticeDestacada 
             key={0}
-            // redirect="/octubre-2023"
-            redirect="https://data.larepublica.pe/encuesta-iep-peru-aprobacion-desaprobacion-presidencia-congreso-de-la-republica-ejecutivo-legislativo/octubre-2023/"
-            image="https://origin.cronosmedia.glr.pe/large/2023/10/29/lg_653e95bd950d463ced0a1aed.jpg"
+            // redirect="/noviembre-2023"
+            redirect="https://data.larepublica.pe/encuesta-iep-peru-aprobacion-desaprobacion-presidencia-congreso-de-la-republica-ejecutivo-legislativo/noviembre-2023/"
+            image="https://origin.cronosmedia.glr.pe/large/2023/11/25/lg_6562c3a001bbb521bb3f5cca.jpg"
             title="ÚLTIMA ENCUESTA"
-            bajada="Aprobación de Boluarte se mantiene en un 10%. La aceptación del Congreso no varía: 9 de cada 10 peruanos rechazan al Poder Legislativo. Situación de la fiscal de la Nación también está en vilo."
+            bajada="Sin autonomía. El Gobierno de Dina Boluarte alcanza un pico de desaprobación con un 85% a casi un año de asumir la presidencia, mientras que el 85% de los ciudadanos consideran que el Congreso no respeta la separación de poderes del Estado."
           />
           <PollAge title="ENCUESTAS IEP 2023">
             {
